@@ -39,7 +39,8 @@ apis:
   - name: Améthyste
     description: "Generate images for Discord users"
     humanURL: https://api.amethyste.moe/
-    tags:
+    tags: []
+    tags_raw:
       - Art And Design
     properties:
       - type: Documentation
